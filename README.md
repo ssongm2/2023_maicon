@@ -1,4 +1,6 @@
 # 2023_maicon
+![Untitled](https://github.com/ssongm2/2023_maicon/assets/157574142/a92d0d91-6332-4e7d-bba8-e6b140fc43dd)
+
 ## 프로그램 소개
 
 프로그램명: 2023 국방 AI 경진대회 <일반인 부문>
